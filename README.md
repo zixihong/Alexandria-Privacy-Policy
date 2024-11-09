@@ -58,8 +58,8 @@ Control which webpages the extension can access
 Changes to Privacy Policy
 We reserve the right to update this privacy policy at any time. Significant changes will be notified through the extension's update notes.
 Contact
-For privacy concerns or questions, please contact [Your Contact Information]
+For privacy concerns or questions, please contact bzh.texas@gmail.com
 Third-Party Services
 This extension uses Google's Gemini API service. Please review Google's privacy policy for information about how they handle data:
 https://policies.google.com/privacy
-Last Updated: [Date]
+Last Updated: 11/8/2024
