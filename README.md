@@ -16,6 +16,9 @@ Your written annotations
 AI-generated annotations
 Associated highlight information
 
+Dylexic Text 
+Accessibility for companies
+
 
 
 Data Storage
@@ -26,9 +29,9 @@ Data remains on your local machine unless explicitly shared
 
 External Services
 
-Google Gemini API
+DeepSeek API
 
-Selected text is sent to Google's Gemini API for AI-powered annotations
+Selected text is sent to DeepSeek API for AI-powered annotations
 This data transmission occurs only when you explicitly request an AI annotation
 Data sent to Gemini API is subject to Google's privacy policy
 We do not store the API responses beyond your local device
@@ -46,7 +49,7 @@ Data Security
 
 All data transmission to external services uses secure HTTPS protocols
 Local storage is isolated to your browser profile
-We do not track user behavior or collect analytics
+We track user analytics for the purposes of providing data analytics for publishers and publication companies
 
 User Rights
 You have the right to:
